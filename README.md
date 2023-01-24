@@ -1,10 +1,17 @@
-# Getting Started with Create React App
+# Introducing - DailyByte - your new News App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+https://user-images.githubusercontent.com/74666867/214250257-f15dbd53-a7c6-4ddd-a460-11682ae4348d.mp4
+
+
+
+## Description
+
+DailyByte is a news App, that offers you daily byte sized news on the go. It is built on top of React and makes use of NewsApi to fetch the top news headlines for you!
+DailyByte offers you wide range of categories from which you can select the category for which you want the news!
+
+
 
 ### `npm start`
 
