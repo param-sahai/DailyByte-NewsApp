@@ -9,7 +9,7 @@ import {
 } from "react-router-dom";
 
 const App = ()=> {
-  const apiKey = process.env.REACT_APP_NEWS_API;
+  const apiKey = REACT_APP_NEWS_API;
   const [progress, setProgress] = useState(0);
 
     return (
